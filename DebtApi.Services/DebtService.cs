@@ -45,9 +45,9 @@ namespace DebtApi.Services
 
             var repaymentPlan = new debtEntities.RepaymentPlan
             {
-                DebtId = request.DebtId,
-                MonthlyPaymentAmount = request.MonthlyPaymentAmount,
-                DateStarted = request.DateStarted
+                DebtId = request.DebtId.HasValue ? request.DebtId.Value : 0,
+                MonthlyPaymentAmount = request.MonthlyPaymentAmount.HasValue ? request.MonthlyPaymentAmount.Value : 0,
+                DateStarted = request.DateStarted.HasValue ? request.DateStarted.Value : DateTime.UtcNow,
             };
 
             var repaymentPlanId  = await _debtRepository.AddRepaymentPlanAsync(repaymentPlan);

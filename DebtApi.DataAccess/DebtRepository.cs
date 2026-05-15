@@ -50,11 +50,12 @@ namespace DebtApi.DataAccess
                                             DebtCreatedDate = d.DebtCreatedDate,
                                             DebtReference = d.DebtReference,
                                             OriginalBalance = d.OriginalBalance
-                                        }).SingleOrDefault();
+                                        }).FirstOrDefault();
 
             var repaymentPlan = (
             from d in _debtDbContext.RepaymentPlan
             where d.DebtId == id
+            orderby d.Id descending
             select new Models.RepaymentPlan
             {
                 DateStarted = d.DateStarted,
@@ -62,13 +63,12 @@ namespace DebtApi.DataAccess
                 Id = d.Id,
                 MonthlyPaymentAmount = d.MonthlyPaymentAmount
             })
-            .OrderByDescending(o => o.Id)
             .FirstOrDefault();
 
 
             if (debtDetailResult != null)
             {
-                debtDetailResult.RepaymentPlan = repaymentPlan;
+                debtDetailResult.RepaymentPlan = repaymentPlan ?? new Models.RepaymentPlan();
             }
             return debtDetailResult ?? new Models.DebtDetail();
         }

@@ -114,7 +114,7 @@ export default function DebtDetails({ debtId }) {
         </div>
 
         <div className="card-body">
-          {debt.repaymentPlan ? (
+          {debt.repaymentPlan.id ? (
             <div className="row g-3">
               <div className="col-md-4">
                 <div className="text-muted small">Monthly Payment</div>
