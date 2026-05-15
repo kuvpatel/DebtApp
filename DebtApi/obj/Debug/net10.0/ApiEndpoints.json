@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "DebtApi.Controllers.DebtController",
+    "Method": "Index",
+    "RelativePath": "api/Debt",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebtApi.Controllers.DebtController",
+    "Method": "AddRepaymentPlan",
+    "RelativePath": "api/Debt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DebtApi.Models.RepaymentPlanRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebtApi.Controllers.DebtController",
+    "Method": "GetDebt",
+    "RelativePath": "api/Debt/customerid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebtApi.Controllers.DebtController",
+    "Method": "GetDebtDetail",
+    "RelativePath": "api/Debt/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

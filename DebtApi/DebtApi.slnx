@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DebtApi.DataAccess/DebtApi.DataAccess.csproj" />
+  <Project Path="../DebtApi.Services/DebtApi.Services.csproj" />
+  <Project Path="../DeptApi.Model/DebtApi.Models.csproj" />
+  <Project Path="DebtApi.csproj" />
+</Solution>

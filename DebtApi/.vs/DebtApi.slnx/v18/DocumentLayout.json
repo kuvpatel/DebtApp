@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4E54A4-6C56-C22C-721D-1A0D5438963F}|DebtApi.csproj|f:\\mycode\\2026\\applications\\deptapp\\debtapi\\controllers\\debtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4E54A4-6C56-C22C-721D-1A0D5438963F}|DebtApi.csproj|solutionrelative:controllers\\debtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4E54A4-6C56-C22C-721D-1A0D5438963F}|DebtApi.csproj|f:\\mycode\\2026\\applications\\deptapp\\debtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4E54A4-6C56-C22C-721D-1A0D5438963F}|DebtApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4E54A4-6C56-C22C-721D-1A0D5438963F}|DebtApi.csproj|f:\\mycode\\2026\\applications\\deptapp\\debtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA4E54A4-6C56-C22C-721D-1A0D5438963F}|DebtApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4E54A4-6C56-C22C-721D-1A0D5438963F}|DebtApi.csproj|f:\\mycode\\2026\\applications\\deptapp\\debtapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA4E54A4-6C56-C22C-721D-1A0D5438963F}|DebtApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DeptApi.Model\\ServiceResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DebtApi.Services\\DebtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\DebtRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DeptApi.Model\\DebtDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\RepaymentPlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DeptApi.Model\\DebtStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DeptApi.Model\\RepaymentPlanRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DebtApi.Services\\IDebtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\DebtStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DeptApi.Model\\RepaymentPlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DeptApi.Model\\Debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\DebtDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\Debt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\IDebtRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "..\\..\\DeptApi.Model\\ServiceResult.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\ServiceResult.cs",
+              "RelativeToolTip": "..\\..\\DeptApi.Model\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T18:45:12.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DebtService.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DebtApi.Services\\DebtService.cs",
+              "RelativeDocumentMoniker": "..\\..\\DebtApi.Services\\DebtService.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DebtApi.Services\\DebtService.cs",
+              "RelativeToolTip": "..\\..\\DebtApi.Services\\DebtService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:07:08.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DebtRepository.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\DebtRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\DebtApi.DataAccess\\DebtRepository.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\DebtRepository.cs",
+              "RelativeToolTip": "..\\..\\DebtApi.DataAccess\\DebtRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:05:40.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DebtDetail.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\DebtDetail.cs",
+              "RelativeDocumentMoniker": "..\\..\\DeptApi.Model\\DebtDetail.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\DebtDetail.cs",
+              "RelativeToolTip": "..\\..\\DeptApi.Model\\DebtDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:39:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepaymentPlan.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\RepaymentPlan.cs",
+              "RelativeDocumentMoniker": "..\\..\\DebtApi.DataAccess\\Entities\\RepaymentPlan.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\RepaymentPlan.cs",
+              "RelativeToolTip": "..\\..\\DebtApi.DataAccess\\Entities\\RepaymentPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:15:27.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DebtStatus.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\DebtStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\DeptApi.Model\\DebtStatus.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\DebtStatus.cs",
+              "RelativeToolTip": "..\\..\\DeptApi.Model\\DebtStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:35:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DebtController.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\Controllers\\DebtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DebtController.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\Controllers\\DebtController.cs",
+              "RelativeToolTip": "Controllers\\DebtController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T14:35:32.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepaymentPlanRequest.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\RepaymentPlanRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\DeptApi.Model\\RepaymentPlanRequest.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\RepaymentPlanRequest.cs",
+              "RelativeToolTip": "..\\..\\DeptApi.Model\\RepaymentPlanRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:37:42.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDebtService.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DebtApi.Services\\IDebtService.cs",
+              "RelativeDocumentMoniker": "..\\..\\DebtApi.Services\\IDebtService.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DebtApi.Services\\IDebtService.cs",
+              "RelativeToolTip": "..\\..\\DebtApi.Services\\IDebtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:02:03.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DebtStatus.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\DebtStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\DebtApi.DataAccess\\Entities\\DebtStatus.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\DebtStatus.cs",
+              "RelativeToolTip": "..\\..\\DebtApi.DataAccess\\Entities\\DebtStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:15:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepaymentPlan.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\RepaymentPlan.cs",
+              "RelativeDocumentMoniker": "..\\..\\DeptApi.Model\\RepaymentPlan.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\RepaymentPlan.cs",
+              "RelativeToolTip": "..\\..\\DeptApi.Model\\RepaymentPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T15:14:57.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Debt.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\Debt.cs",
+              "RelativeDocumentMoniker": "..\\..\\DeptApi.Model\\Debt.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApi.Model\\Debt.cs",
+              "RelativeToolTip": "..\\..\\DeptApi.Model\\Debt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:40:13.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DebtDbContext.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\DebtDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\DebtApi.DataAccess\\DebtDbContext.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\DebtDbContext.cs",
+              "RelativeToolTip": "..\\..\\DebtApi.DataAccess\\DebtDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:20:19.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Debt.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\Debt.cs",
+              "RelativeDocumentMoniker": "..\\..\\DebtApi.DataAccess\\Entities\\Debt.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\Entities\\Debt.cs",
+              "RelativeToolTip": "..\\..\\DebtApi.DataAccess\\Entities\\Debt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:14:52.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:47:52.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDebtRepository.cs",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\IDebtRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\DebtApi.DataAccess\\IDebtRepository.cs",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DebtApi.DataAccess\\IDebtRepository.cs",
+              "RelativeToolTip": "..\\..\\DebtApi.DataAccess\\IDebtRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T16:49:35.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T08:52:14.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T08:52:17.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

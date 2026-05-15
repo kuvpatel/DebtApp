@@ -1,0 +1,11 @@
+F:\MyCode\2026\Applications\DeptApi.Model\bin\Debug\net10.0\DeptApi.Models.deps.json
+F:\MyCode\2026\Applications\DeptApi.Model\bin\Debug\net10.0\DeptApi.Models.dll
+F:\MyCode\2026\Applications\DeptApi.Model\bin\Debug\net10.0\DeptApi.Models.pdb
+F:\MyCode\2026\Applications\DeptApi.Model\obj\Debug\net10.0\DeptApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyCode\2026\Applications\DeptApi.Model\obj\Debug\net10.0\DeptApi.Models.AssemblyInfoInputs.cache
+F:\MyCode\2026\Applications\DeptApi.Model\obj\Debug\net10.0\DeptApi.Models.AssemblyInfo.cs
+F:\MyCode\2026\Applications\DeptApi.Model\obj\Debug\net10.0\DeptApi.Models.csproj.CoreCompileInputs.cache
+F:\MyCode\2026\Applications\DeptApi.Model\obj\Debug\net10.0\DeptApi.Models.dll
+F:\MyCode\2026\Applications\DeptApi.Model\obj\Debug\net10.0\refint\DeptApi.Models.dll
+F:\MyCode\2026\Applications\DeptApi.Model\obj\Debug\net10.0\DeptApi.Models.pdb
+F:\MyCode\2026\Applications\DeptApi.Model\obj\Debug\net10.0\ref\DeptApi.Models.dll

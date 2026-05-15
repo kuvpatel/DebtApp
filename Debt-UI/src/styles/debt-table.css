@@ -1,0 +1,29 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.debt-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.debt-table th,
+.debt-table td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
+
+.debt-table th {
+  background-color: #f4f4f4;
+}
+
+.debt-table tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+.debt-table tr:hover {
+  background-color: #f1f1f1;
+}
