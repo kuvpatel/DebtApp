@@ -5,8 +5,9 @@ Run the Web Api Project in Visual Studio
 
 1) Clone the repo
 
-2) Create database in sql server
-    - Open the script file in SSMS and run to create the DebtDb database
+2) Database in Sql server
+	- Manually create a database in SQL Server named DebtDb
+    - Open the script file from /DebtApp/DbScripts in SSMS and run to create the tables in DebtDb
 
 3) Open the Webi in Visual Studio by clicking \DebtApi\DebtApi.slnx
     - Change the appsettings file conectionstring to point to the sql server instance
