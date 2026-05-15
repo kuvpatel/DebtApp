@@ -20,3 +20,15 @@ F:\MyCode\2026\Applications\DeptApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Mode
 F:\MyCode\2026\Applications\DeptApp\DeptApi.Model\obj\Debug\net10.0\refint\DebtApi.Models.dll
 F:\MyCode\2026\Applications\DeptApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Models.pdb
 F:\MyCode\2026\Applications\DeptApp\DeptApi.Model\obj\Debug\net10.0\ref\DebtApi.Models.dll
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\bin\Debug\net10.0\DebtApi.Models.deps.json
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\bin\Debug\net10.0\DebtApi.Models.dll
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\bin\Debug\net10.0\DebtApi.Models.pdb
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Models.AssemblyInfoInputs.cache
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Models.AssemblyInfo.cs
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Models.csproj.CoreCompileInputs.cache
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Models.sourcelink.json
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Models.dll
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\refint\DebtApi.Models.dll
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\DebtApi.Models.pdb
+F:\MyCode\2026\Applications\DebtApp\DeptApi.Model\obj\Debug\net10.0\ref\DebtApi.Models.dll

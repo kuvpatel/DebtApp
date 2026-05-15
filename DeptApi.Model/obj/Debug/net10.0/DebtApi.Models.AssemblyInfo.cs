@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DebtApi.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbf9ce2c79129e5ac28c2acbc97bb22ed0c06583")]
 [assembly: System.Reflection.AssemblyProductAttribute("DebtApi.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DebtApi.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

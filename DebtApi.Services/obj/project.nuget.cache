@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QXYAc1541Jw=",
+  "dgSpecHash": "rMQgvVSLx/g=",
   "success": true,
-  "projectFilePath": "F:\\MyCode\\2026\\Applications\\DeptApp\\DebtApi.Services\\DebtApi.Services.csproj",
+  "projectFilePath": "F:\\MyCode\\2026\\Applications\\DebtApp\\DebtApi.Services\\DebtApi.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Home PC 2024\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Home PC 2024\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
